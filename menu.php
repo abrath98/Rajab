@@ -81,7 +81,7 @@
                          <div class="customer-text">
                                 <h5>KLIK LINK DIBAWAH INI UNTUK MENUJU KONTAK RESMI</h5>
                                 <h5> <a href="https://www.pubgmobile.com/en-US/">-WEBSITE</a> </h5>          
-                                <h5> <a href="https://www.instagram.com/pubgmobile/?hl=id">-FACEBOOK</a> </h5>   
+                                <h5> <a href="https://www.instagram.com/pubgmobile/?hl=id">-INSTAGRAM</a> </h5>   
                              <h5> <a href="https://id-id.facebook.com/PUBGMOBILE">-FACEBOOK</a> </h5>
                                                   
     
